@@ -1,0 +1,9 @@
+4000 ;data starts at memory location x4000 used by Problem Set Chapter 7 4 of 5
+0001 ;the ten numbers we want to add begin here
+0002
+0003
+0004
+0005
+0006
+0007
+FFFF

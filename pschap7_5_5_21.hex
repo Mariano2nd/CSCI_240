@@ -1,0 +1,11 @@
+4000 ;Data starts at memory location x4000 used by Problem Set Chapter 7, problem 5.21
+0001 ;The ten numbers to process begin here
+FFFC
+0003
+FFFD
+0004
+FFFB
+0002
+FFFF
+0008
+000A

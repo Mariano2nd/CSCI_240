@@ -1,0 +1,19 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	DECRYPT                 3038
+//	DECRYPTIONLOOP          303A
+//	D_Store                 3043
+//	E_Store                 3033
+//	EncryptLoop             302C
+//	ExitInput               301F
+//	InputLoop               3017
+//	N68                     3088
+//	NEW                     3099
+//	One_1                   3032
+//	One_2                   3042
+//	PROMPT1                 304E
+//	PROMPT2                 3064
+//	PROMPT3                 3076
+//	SCRIPT                  3089
+//	SKIP                    3048
+//	STORE                   304D

@@ -1,0 +1,21 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	DDR                     04C8
+//	DSR                     04C7
+//	Input                   04A9
+//	KBDR                    04CE
+//	KBSR                    04CD
+//	Loop                    04A4
+//	Newline                 04B0
+//	PROMPT                  04B1
+//	ReadChar                04C9
+//	RestoreReg              04D6
+//	START                   04A0
+//	SaveR1                  04DD
+//	SaveR2                  04DE
+//	SaveR3                  04DF
+//	SaveR4                  04E0
+//	SaveR5                  04E1
+//	SaveR6                  04E2
+//	SaveReg                 04CF
+//	WriteChar               04C3

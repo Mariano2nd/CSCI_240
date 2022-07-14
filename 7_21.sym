@@ -1,0 +1,7 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	LOOP                    3004
+//	MASK                    300D
+//	NEXT                    3008
+//	PTR1                    300E
+//	PTR2                    300F

@@ -1,0 +1,22 @@
+4000 ;data starts at memory location x4000 forFigure_5_17_Character_Occurance_Count
+0039 ;Characters from 0 to 9. There are 9 charcter '9' and 3 of '8', 4 of '7'
+0036 ;Character '6'
+0039 ;Character '9'
+0032 ;Character '2'
+0039 ;Character '9'
+0037 ;Character '7'
+0039 ;Character '9'
+0038 ;Character '8'
+0037 ;Character '7'
+0039 ;Character '9'
+0037 ;Character '7'
+0039 ;Character '9'
+0038 ;Character '8'
+0039 ;Character '9'
+0038 ;Character '8'
+0039 ;Character '9'
+0037 ;Character '7'
+0039 ;Character '9'
+0036 ;Character '6'
+0004 ;EOT
+
